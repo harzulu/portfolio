@@ -86,6 +86,12 @@ h3 {
   width: auto;
 }
 
+#epicodus p {
+  padding-top: 20px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
 /* about.html */
 
 #about-title {
