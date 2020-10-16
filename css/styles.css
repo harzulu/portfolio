@@ -3,8 +3,8 @@
   font-size: larger;
   background-color: #555554;
 }
-
-#title {
+/* index.html */
+#main-title {
   background-image: url("../images/mountian.jpg");
   background-size: cover;
   background-attachment: fixed;
@@ -26,4 +26,33 @@
   float: left;
   width: 20%;
   height: auto;
+}
+/* projects.html */
+
+#projects-title {
+  background-image: url("../images/skyline.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  height: 850px;
+  width: auto;
+}
+
+/* about.html */
+
+#about-title {
+  background-image: url("../images/lava-rock.jpeg");
+  background-size: cover;
+  background-attachment: fixed;
+  height: 850px;
+  width: auto;
+}
+
+/*contact.html */
+
+#contact-title {
+  background-image: url("../images/st-john-bridge.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  height: 850px;
+  width: auto;
 }
