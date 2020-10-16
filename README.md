@@ -8,7 +8,7 @@ This is a set of webpages all about me and my projects I have created to show of
 
 ## Setup/Installation Requirements
 
-* Visit ""
+* Visit "https://harzulu.github.io/portfolio/"
 
 All you need to view this project is to visit the link above.
 
