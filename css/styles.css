@@ -1,3 +1,9 @@
+#top-bar {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: larger;
+  background-color: #555554;
+}
+
 #title {
   background-image: url("../images/mountian.jpg");
   background-size: cover;
