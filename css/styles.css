@@ -21,3 +21,9 @@
   position: center;
 
 }
+
+#camera-picture {
+  float: left;
+  width: 20%;
+  height: auto;
+}
