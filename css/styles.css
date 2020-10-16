@@ -1,0 +1,17 @@
+#title {
+  background-image: url("../images/mountian.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  height: 850px;
+  width: auto;
+}
+#intro {
+  height: 1000px;
+  background-color: aquamarine;
+}
+
+#intro h2 {
+  text-align: center;
+  position: center;
+
+}
