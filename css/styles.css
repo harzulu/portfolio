@@ -96,6 +96,11 @@ p {
   padding-bottom: 20px;
 }
 
+#projects ul {
+  text-align: center;
+  list-style-position: inside;
+}
+
 #osu {
   padding-top: 20px;
   border-top: 2px solid black;
@@ -119,7 +124,7 @@ p {
   height: auto;
 }
 
-#projects a:link, #projects a:visited, #projects a:active {color: blue; text-decoration: none; font-size: 2em;}
+#projects a:link, #projects a:visited, #projects a:active {color: blue; text-decoration: none; font-size: 1em; padding-bottom: 15px; border-bottom: 1px solid black;}
 #projects a:hover {color: grey; text-decoration: none;}
 
 /* about.html */
