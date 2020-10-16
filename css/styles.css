@@ -15,7 +15,21 @@ h1 {
   text-align: center;
   text-shadow: 2px 2px black;
   font-size: 6em;
+}
 
+h2 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 4em;
+  font-weight: 500;
+}
+
+h3 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 2em;
 }
 
 /* index.html */
@@ -27,21 +41,41 @@ h1 {
   width: auto;
 }
 #intro {
+  padding-top: 50px;
   height: 1000px;
   background-color: white;
-}
-
-#intro h2 {
-  text-align: center;
-  position: center;
-
+  padding-right: 400px;
+  padding-left: 400px;
+  color: black;
 }
 
 #camera-picture {
-  float: left;
-  width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50px 0;
+  width: 30%;
   height: auto;
 }
+
+.row {
+  padding-top: 20px;
+  display: table;
+  width: 100%;
+  margin: 20px auto;
+}
+.row a {
+  display: table-cell;
+  text-align: center;
+  width: 16%px;
+  height: auto;
+}
+
+.row img {
+  width: 50px;
+  height: auto;
+}
+
 /* projects.html */
 
 #projects-title {
