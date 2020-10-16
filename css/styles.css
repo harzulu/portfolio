@@ -8,6 +8,11 @@
 a:link, a:visited, a:active {color: white; text-decoration: none;}
 a:hover {color: grey; text-decoration: none;}
 
+.caption {
+  color: white;
+  float: right;
+}
+
 h1 {
   padding: 320px 0;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -96,7 +101,7 @@ p {
   padding-bottom: 20px;
 }
 
-#projects ul {
+#projects ul, ol {
   text-align: center;
   list-style-position: inside;
 }
