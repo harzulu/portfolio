@@ -105,3 +105,16 @@ h3 {
   height: 850px;
   width: auto;
 }
+
+.info-block {
+  height: 700px;
+  text-align: center;
+}
+
+.info-block img {
+  width: 50%;
+  height: auto;
+}
+
+.info-block a:link, .info-block a:visited, .info-block a:active {color: blue; text-decoration: none; font-size: 2em;}
+.info-block a:hover {color: grey; text-decoration: none;}
