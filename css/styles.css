@@ -2,7 +2,12 @@
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: larger;
   background-color: #555554;
+  
 }
+
+a:link, a:visited, a:active {color: white; text-decoration: none;}
+a:hover {color: grey; text-decoration: none;}
+
 /* index.html */
 #main-title {
   background-image: url("../images/mountian.jpg");
@@ -13,7 +18,7 @@
 }
 #intro {
   height: 1000px;
-  background-color: aquamarine;
+  background-color: white;
 }
 
 #intro h2 {
