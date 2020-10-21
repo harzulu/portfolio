@@ -91,8 +91,18 @@ p {
   background-image: url("../images/skyline.jpg");
   background-size: cover;
   background-attachment: fixed;
-  height: 750px;
+  height: 850px;
   width: auto;
+}
+#projects {
+  padding-top: 50px;
+  height: 1100px;
+  padding-left: 400px;
+  padding-right: 400px;
+}
+
+.logo {
+  padding-top: 50px;
 }
 
 #epicodus p {
