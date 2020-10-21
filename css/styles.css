@@ -71,7 +71,7 @@ p {
   margin: auto;
   width: 20%;
   height: 50px;
-  border: 2px solid black;
+  border: 3px solid black;
   padding: 10px;
   margin-bottom: 50px;
 }
@@ -95,6 +95,10 @@ p {
 .row img {
   width: 50px;
   height: auto;
+}
+
+#instagram {
+  width: 60px;
 }
 
 /* projects.html */
