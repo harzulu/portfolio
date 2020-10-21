@@ -10,7 +10,13 @@ This is a set of webpages all about me and my projects I have created to show of
 
 * Visit "https://harzulu.github.io/portfolio/"
 
-All you need to view this project is to visit the link above.
+In order to clone this repository:
+
+* Click the green 'code' button to the top right of the list of files
+* Copy the link given
+* Open your command line/terminal
+* Navigate to where you would like this repository
+* Enter this command with the copied url: "git clone [copied url]"
 
 ## Known Bugs/Issues
 
