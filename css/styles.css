@@ -79,6 +79,10 @@ p {
 #project-button a:link, #project-button a:visited, #project-button a:active {color: black; text-decoration: none;}
 #project-button a:hover {color: grey; text-decoration: none;}
 
+#links h3 {
+  border-bottom: 2px solid black;
+}
+
 .row {
   padding-top: 20px;
   display: table;
@@ -115,6 +119,14 @@ p {
   height: 1100px;
   padding-left: 400px;
   padding-right: 400px;
+}
+
+#epicodus div {
+  border: 3px solid black;
+}
+
+#osu div {
+  border: 3px solid black;
 }
 
 .logo {
