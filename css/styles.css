@@ -166,6 +166,14 @@ p {
   list-style-position: inside;
 }
 
+#name {
+  font-weight: 600;
+}
+
+.hobbies {
+  float:left;
+}
+
 /*contact.html */
 
 #contact-title {
